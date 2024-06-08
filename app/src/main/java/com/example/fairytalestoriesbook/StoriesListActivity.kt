@@ -57,7 +57,7 @@ class StoriesListActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        // Find the ImageView for Beauty and the Beast
+        // Find the ImageView for Beauty and the Beast.
         val beautyBeastImage = findViewById<ImageView>(R.id.story4Image)
 
         // Set OnClickListener for Beauty and the Beast ImageView
